@@ -273,4 +273,3 @@ END:VCALENDAR`;
     </div>
   );
 }
-}
